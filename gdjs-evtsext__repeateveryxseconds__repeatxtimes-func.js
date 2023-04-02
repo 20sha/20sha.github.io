@@ -29,7 +29,7 @@ gdjs.evtsExt__RepeatEveryXSeconds__RepeatXTimes.eventsList0 = function(runtimeSc
 gdjs.evtsExt__RepeatEveryXSeconds__RepeatXTimes.condition0IsTrue_0.val = false;
 {
 {gdjs.evtsExt__RepeatEveryXSeconds__RepeatXTimes.conditionTrue_1 = gdjs.evtsExt__RepeatEveryXSeconds__RepeatXTimes.condition0IsTrue_0;
-gdjs.evtsExt__RepeatEveryXSeconds__RepeatXTimes.conditionTrue_1.val = eventsFunctionContext.getOnceTriggers().triggerOnce(7810140);
+gdjs.evtsExt__RepeatEveryXSeconds__RepeatXTimes.conditionTrue_1.val = eventsFunctionContext.getOnceTriggers().triggerOnce(9820196);
 }
 }if (gdjs.evtsExt__RepeatEveryXSeconds__RepeatXTimes.condition0IsTrue_0.val) {
 {gdjs.evtTools.runtimeScene.resetTimer(runtimeScene, (typeof eventsFunctionContext !== 'undefined' ? "" + eventsFunctionContext.getArgument("timerName") : ""));
